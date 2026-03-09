@@ -1,7 +1,7 @@
 # Github-Actions-EKS-CICD-Cafe-Coffee
 
-## Workflow Diagram of my Project -
-![workflow-diagram](https://github.com/mdazfar2/Github-Actions-EKS-CICD-Cafe-Coffee/assets/100375390/18fc51ab-7ccc-4971-a37c-9e740b854331)
+<!-- ## Workflow Diagram of my Project -
+![workflow-diagram](https://github.com/mdazfar2/Github-Actions-EKS-CICD-Cafe-Coffee/assets/100375390/18fc51ab-7ccc-4971-a37c-9e740b854331) -->
 
 # Description 
 Welcome to Github-Actions-EKS-CICD-Cafe-Coffee! This project aims to streamline the deployment pipeline for a MERN (MongoDB, Express.js, React.js, Node.js) web application using a DevOps approach. By leveraging GitHub Actions, Docker, Terraform, and SonarQube, we've crafted an automated Continuous Integration/Continuous Deployment (CI/CD) pipeline that ensures efficiency, reliability, and quality in deploying your MERN web application to Amazon Elastic Kubernetes Service (EKS).
