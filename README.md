@@ -132,7 +132,5 @@ Welcome to Github-Actions-EKS-CICD-Cafe-Coffee! This project aims to streamline 
   ```
 - Now, use the process of GitHub Runner in your terminal. The command will take you to Settings > Actions > Runners > new self-hosted runner. Then, choose Linux and follow all the steps.
 
-
-
 ##  Looking forward to helping you succeed! ✨
      
